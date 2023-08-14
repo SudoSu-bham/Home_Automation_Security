@@ -45,6 +45,8 @@ After doing all these processes watch the [video](https://www.youtube.com/) and 
 https://www.youtube.com/
 
 ### Wiring Diagram
-![Wiring image](wiring diagram)
+![Wiring image](![Wire-diagram](https://github.com/SudoSu-bham/Home_Automation_Security/assets/55135022/ecd085e8-ea80-466b-ad86-0305d46ca328))
 
-![breadboard image](original image)
+BreadBoard with all modules & sensors powered By USB Charger
+![breadboard image](![20230627_154226](https://github.com/SudoSu-bham/Home_Automation_Security/assets/55135022/631021d2-be91-466a-ab56-7b5931fda1a0))
+
