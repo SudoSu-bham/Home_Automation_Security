@@ -1,7 +1,7 @@
 
 # Home automation and security through IoTs  
 
-This is a ESP32  and Blynk based project. Those pople who have small kids at home face home invasion and didn't know it until they reach home, even with Ring Door bell you can't tell whether your door is being opened or not. But using this device we can know the state of the gate, the user will get the update in his Blynk application whenever the gate state changes.
+This is a ESP32  and Blynk based project. Those people who have small kids at home face home invasion and didn't know it until they reach home, even with Ring Door bell you can't tell whether your door is being opened or not. But using this device we can know the state of the gate, the user will get the update in his Blynk application whenever the gate state changes.
 There is a MQ2 sensor which is capable of detecting the smoke/LPG leakage in the house.It also display the live smoke/LPG level through a circular guage over blynk application once the smoke/LPG level is above threshold value it can sound a buzzer and sends a warning message to the user's mobile.
 It has the ability to control two home appliances, if there is no internet connectivity in the ESP32 than with two push buttons the appliances can be toggled and once the connectivity is established their states will be updated over the blynk application.
 ## Features
@@ -41,8 +41,8 @@ SMOKE EVENT
 
 When both event created click on Save and Apply
 
-After doing all these processes watch the [video](https://www.youtube.com/) and configure your Blynk mobile application.
-https://www.youtube.com/
+After doing all these processes watch the [video](https://youtu.be/smi0REqlFpA) and configure your Blynk mobile application.
+[https://www.youtube.com/](https://youtu.be/smi0REqlFpA)
 
 ### Wiring Diagram
 ![Wiring image](https://github.com/SudoSu-bham/Home_Automation_Security/assets/55135022/ecd085e8-ea80-466b-ad86-0305d46ca328)
